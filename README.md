@@ -15,22 +15,22 @@ There was evidence of academic dishonesty in some of the data that was previousl
 ![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/new_rank.png)
 
 - Old spending summary:
-![This is an image](
+![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/old_spend%20(2).png)
 
 - New spending summary:
-![This is an image](
+![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/new_spend%20(2).png)
 
 - Old size summary:
-![This is an image](
+![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/old_size%20(2).png)
 
 - New size summary:
-![This is an image](
+![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/new_size%20(2).png)
 
 - Old type summary:
-![This is an image](
+![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/old_type%20(2).png)
 
 - New type summary:
-![This is an image](
+![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/new_type%20(2).png)
 ## Summary
 ### District Summary
 The scores and passing percent in the district summary all fall, with reading falling the least. Compared to other summaries, this is the most significant, likely due to the fact that Thomas High School has higher than average passing rates and is second in the district overall.
