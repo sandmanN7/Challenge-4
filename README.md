@@ -6,7 +6,7 @@ There was evidence of academic dishonesty in some of the data that was previousl
 ![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/old_district.png)
 
 - New district summary
-![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/New_district.png)
+![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/new_district.png)
 
 - Old school ranking:
 ![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/old_rank%20(2).png)
