@@ -21,15 +21,19 @@ There was evidence of academic dishonesty in some of the data that was previousl
 ![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/new_spend%20(2).png)
 
 - Old size summary:
+
 ![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/old_size%20(2).png)
 
 - New size summary:
+
 ![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/new_size%20(2).png)
 
 - Old type summary:
+
 ![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/old_type%20(2).png)
 
 - New type summary:
+
 ![This is an image](https://github.com/sandmanN7/Challenge-4/blob/main/Resources/new_type%20(2).png)
 ## Summary
 ### District Summary
