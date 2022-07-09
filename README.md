@@ -1,2 +1,5 @@
-# Challenge-4
-PyCitySchools
+# Challenge 4 School District Analysis
+## Project Overview
+There was evidence of academic dishonesty in some of the data that was previously given to us, specifically in the ninth grade math and reading scores of Thomas High School. Since there was previously a school district analysis performed already, what is required is to eliminated the ninth grade scores of Thomas High School and adjust the analysis accordingly
+## Summary
+The scores and passing percent in the district summary all fall a few tenths of a percent. Compared to other summaries, this is the most significant, likely due to the fact that Thomas High School has higher than average passing rates and is second in the district overall. On the school summary level, Thomas High School's ranking is still second in the district, though all scores and passing rates fell, except for the average reading score, which rose very slightly. In terms of the spending category $631-645, the school-sized medium category, and the school type "charter", all scores and passing rates fell, though the fall was nearly insignificant. This was likely for several reasons. One, for the charter schools, they mostly tend to all have high passing rates and scores
